@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""This module writes an asynchronous coroutine that takes in an integer argument """
+"""
+This module writes an asynchronous coroutine that takes in an integer argument
+"""
 import asyncio
 import random
 
