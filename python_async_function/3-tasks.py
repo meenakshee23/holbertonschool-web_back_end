@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This module writes a function 
+This module writes a function
 (do not create an async function, use the regular function syntax to do this)
 """
 import asyncio
