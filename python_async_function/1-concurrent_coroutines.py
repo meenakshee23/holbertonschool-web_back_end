@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-This module  writes an async routine called wait_n that takes in 2 int arguments
+This module  writes an async routine called
+wait_n that takes in 2 int arguments
 """
 import asyncio
 from typing import List
