@@ -1,0 +1,1 @@
+class defines a blueprint
