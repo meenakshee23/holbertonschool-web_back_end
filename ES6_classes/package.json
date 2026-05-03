@@ -1,0 +1,12 @@
+{
+  "name": "es6_classes",
+  "version": "1.0.0",
+  "description": "class defines a blueprint",
+  "main": "0-classroom.js",
+  "scripts": {
+    "dev": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
