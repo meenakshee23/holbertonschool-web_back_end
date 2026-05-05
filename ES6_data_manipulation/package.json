@@ -1,0 +1,12 @@
+{
+  "name": "es6_data_manipulation",
+  "version": "1.0.0",
+  "description": "How to use map, filter and reduce on arrays Typed arrays The Set, Map, and Weak link data structures",
+  "main": "0-get_list_students.js",
+  "scripts": {
+    "dev": "node"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
