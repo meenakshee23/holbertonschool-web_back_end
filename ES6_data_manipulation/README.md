@@ -8,6 +8,3 @@ Typed arrays
 
 
 The Set, Map, and Weak link data structures
-
-outcome
-maarketing 
